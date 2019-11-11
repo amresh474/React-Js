@@ -1,0 +1,24 @@
+.SignUp-container{
+    height:100%;
+    display: flex;
+    border: 0;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.btn-facebook {
+    background-color: #405D9D !important;
+    color: #fff !important;
+}
+.btn-twitter {
+    background-color: #42AEEC !important;
+    color: #fff !important;
+}
+.divider-text{
+    text-align: center;
+}
+.divider-block{
+    color:cornflowerblue !important;
+    cursor: pointer;
+  }
